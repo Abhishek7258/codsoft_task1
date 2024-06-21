@@ -1,0 +1,51 @@
+.social-log{position: relative;
+    margin-top: ;
+    
+   color: brown;
+   
+    
+}
+.social-log a{
+    color: rgb(231, 216, 216);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.social-log a:hover{
+    color: aqua;
+}
+.social-log .insta img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+   
+
+}
+
+.contact-me{
+    color: white;
+    margin-top: 40px;
+}
+
+/*  */
+.quick{background-color: rgb(255, 208, 0);padding-left: 40px;margin-top: 50px;
+    margin-left: 150px;flex-basis:300px;height: 500px;border-radius: 20px;}
+.quick h1{padding: 30px 00px;}
+.quick form input,textarea{height: 50px;width:250px;border: none;padding-left: 20px;
+font-size: 18px;border-radius: 15px;}
+
+.quick button{padding: 10px 20px ;font-size:18px;border:2px solid black;
+    background-color:rgb(255, 208, 0) ;border-radius: 17px;}
+
+    .quick a button:hover{border-color: red;}
+    .quick form input:hover{border:2px solid red;}
+    .quick form textarea:hover{border:2px solid red;}
+
+   
+
+    /* end quick form */
+
+    .container{
+        display: flex;
+        justify-content: space-around;
+    }

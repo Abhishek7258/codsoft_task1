@@ -1,0 +1,136 @@
+*{
+    margin: 00px;
+    padding: 00px;
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    background-color: rgb(8, 8, 73);
+}
+
+header{ position: sticky;
+
+    max-width: 100%;
+    padding: 9px;
+    color: whitesmoke;
+    background-color: rgb(12, 12, 43);
+}
+
+header{ display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: sticky;
+    top:0px;
+
+}
+header .menu ul{ display: flex;
+   
+
+    
+
+}
+
+header .menu ul li{
+    margin: 00px 49px;
+    font-size: 21px;
+}
+
+.menu ul li a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.menu ul li a:hover{
+    color: rgb(19, 103, 128);
+}
+
+/* header end */
+
+main{
+    display: flex;
+    justify-content: space-around;
+   margin-top: 70px;
+    justify-content: space-around;
+    
+}
+
+.main-left{
+    color: lavender;
+   margin-top: 5%;
+    align-items: center;
+    line-height: 45px;
+    font-size: 1.2rem;
+    word-spacing: 12px;
+}
+.main-left button{
+    background: linear-gradient(rgb(202, 20, 20), rgb(8, 52, 8), rgb(15, 15, 194));
+padding: 10px;
+width:450px;
+font-size: 20px;
+border: none;
+text-align: none;
+border-radius: 10PX;
+margin-top: 20PX;
+}
+
+.main-left button a{
+    color: aqua;
+    text-decoration: none;
+}
+.main-right{
+    color: white;
+    font-size: 20px;
+    
+}
+
+.main-left span{
+    color: rgb(198, 13, 198);
+   
+}
+
+.images img{height:350px;
+border-radius: 50%;}
+
+/* social logo */
+.social-logo{position: fixed;
+    right:40px;
+   top:30%;
+   color: brown;
+   
+    
+}
+.social-logo a{
+    color: brown;
+}
+.social-logo .insta img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+   
+
+}
+
+.youtube{
+    height: 50px;
+    width:50px;
+    border-radius: 50%;
+}
+
+.jac{
+    color: white;
+    font-size: 23px;
+}
+
+.jac:hover{color: aqua;
+
+}
+
+/* footer */
+
+footer{
+    background-color: black;
+    color: lavender;
+    text-align: center;
+    padding: 10px;
+}

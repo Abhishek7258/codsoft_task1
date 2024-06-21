@@ -1,0 +1,116 @@
+@media screen and  (min-width:200px) and (max-width:567px)
+{
+    main{
+        display: block;
+        justify-content: center;
+        text-align: center;
+    }
+
+    header .menu ul li{
+        margin: 00px 20px;
+        font-size: 13px;
+        text-align: center;
+
+    }
+    .menu{
+        
+        margin: -30px;
+        font-size: 14px;
+    }
+
+    header h1{
+        font-size: 15px;
+    }
+
+    .main-left{
+        color: lavender;
+       margin-top: 1%;
+        align-items: center;
+        line-height: 45px;
+        font-size: 1rem;
+        word-spacing: 12px;
+        padding: 00px 10px;
+        text-align: center;
+    }
+
+    main{
+    
+        justify-content: space-around;
+       margin-top: 20px;
+        justify-content: space-around;
+       
+    }
+
+    .main-left button{
+        width:250px;
+    }
+
+.social-logo{position: fixed;
+    right:30px;
+   top:30%;
+   }
+
+   .social-logo .insta img{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+   
+
+}
+.images{
+    margin-top: 20px;
+}
+   .images img{height:300px;
+    width:300px ;
+    border-radius: 50%;
+margin-top: 10px;} 
+
+    footer{
+       
+        padding: 10px;
+        bottom:10px;
+    }
+    .main-left h2{font-size: 
+
+    }
+
+    /* project */
+
+    .main-abhi{
+        display: block;
+    
+        text-align: center;}
+
+        /* contact */
+
+        .container{
+            display: block;
+            text-align: center;
+            font-size: 16px;
+            align-items: center;
+        }
+        .container h1{
+            font-size: 21px;
+        }
+
+        .quick{background-color: rgb(255, 208, 0);margin-top: 50px;
+            background-color: rgb(255, 208, 0);
+            padding-left: 0px;
+            margin-top: 50px;
+            margin:00px 20px;
+            flex-basis: 300px;
+            height: 428px;
+            border-radius: 20px}
+
+            /* about */
+
+            .intro {
+                color: white;
+                padding: 0px 40px;
+                font-size: 20px;
+                line-height: 29px;
+                padding-top: 10px;
+            }
+
+}
+

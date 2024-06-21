@@ -1,0 +1,34 @@
+.container{margin-top: 30px;
+    
+   
+}
+.intro{
+    color: white;
+    padding-left: 40px;
+    font-size: 1.7rem;
+    line-height: 40px;
+    padding-top: 10px;
+
+
+
+}
+
+.intro h1{font-size: 2.1rem;
+    color: aqua;
+
+}
+
+.intro h2{
+    font-size: 1.8rem;
+    line-height: 50px;
+    color: rgb(211, 234, 63);
+    padding-top: 20px;
+}
+
+.line{
+    height:8px;
+    width: 90%;
+ background: linear-gradient(rgb(142, 114, 114), rgb(7, 56, 7), rgb(31, 31, 236));
+    ;
+    margin: 8px;
+}
